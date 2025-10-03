@@ -176,7 +176,7 @@ a.collapsed .fa-chevron-down {
   border-radius: 30px;
 }
 ::-webkit-scrollbar-thumb {
-  background-color: var(--red-color);
+  background-color: #2F4466;
   border-radius: 3px;
   width: 5px;
   height: 30px;
@@ -940,3 +940,4 @@ footer ul li a {
 .Return-up a i:hover {
   background-color: var(--a-color-hover);
 }
+
